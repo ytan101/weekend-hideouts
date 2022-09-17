@@ -4,7 +4,7 @@
 
 # Getting Started
 - Run `npm i` aka `npm install` - this is to install all npm packages to get your `package.json`
-
+- Run `npm run build` to obtain the build folder which can then be uploaded on to AWS.
 
 # Getting Started with Create React App
 
