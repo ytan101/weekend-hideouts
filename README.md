@@ -1,3 +1,11 @@
+# Before Starting:
+- You would need nodejs to start.
+  - How to check if you have nodejs installed? Go to your command prompt, key in `npm`. If the result is that `npm is not recognised`, it's time to download nodejs and install it.
+
+# Getting Started
+- Run `npm i` aka `npm install` - this is to install all npm packages to get your `package.json`
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
